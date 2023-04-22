@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aiow/static/css/main.6b12535e.css",
+    "main.js": "/aiow/static/js/main.da5e9de2.js",
+    "static/js/787.7f570433.chunk.js": "/aiow/static/js/787.7f570433.chunk.js",
+    "index.html": "/aiow/index.html",
+    "main.6b12535e.css.map": "/aiow/static/css/main.6b12535e.css.map",
+    "main.da5e9de2.js.map": "/aiow/static/js/main.da5e9de2.js.map",
+    "787.7f570433.chunk.js.map": "/aiow/static/js/787.7f570433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b12535e.css",
+    "static/js/main.da5e9de2.js"
+  ]
+}
