@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/aiow/static/css/main.6b12535e.css",
-    "main.js": "/aiow/static/js/main.da5e9de2.js",
-    "static/js/787.7f570433.chunk.js": "/aiow/static/js/787.7f570433.chunk.js",
-    "index.html": "/aiow/index.html",
-    "main.6b12535e.css.map": "/aiow/static/css/main.6b12535e.css.map",
-    "main.da5e9de2.js.map": "/aiow/static/js/main.da5e9de2.js.map",
-    "787.7f570433.chunk.js.map": "/aiow/static/js/787.7f570433.chunk.js.map"
+    "main.css": "/spacesaicodes1234/game/static/css/main.c1864a7e.css",
+    "main.js": "/spacesaicodes1234/game/static/js/main.9ba3ec17.js",
+    "static/js/787.7f570433.chunk.js": "/spacesaicodes1234/game/static/js/787.7f570433.chunk.js",
+    "static/media/BRLNSR.TTF": "/spacesaicodes1234/game/static/media/BRLNSR.dc095e60ae5e90312573.TTF",
+    "static/media/big.png": "/spacesaicodes1234/game/static/media/big.3cfa94db13a01693315e.png",
+    "index.html": "/spacesaicodes1234/game/index.html",
+    "main.c1864a7e.css.map": "/spacesaicodes1234/game/static/css/main.c1864a7e.css.map",
+    "main.9ba3ec17.js.map": "/spacesaicodes1234/game/static/js/main.9ba3ec17.js.map",
+    "787.7f570433.chunk.js.map": "/spacesaicodes1234/game/static/js/787.7f570433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b12535e.css",
-    "static/js/main.da5e9de2.js"
+    "static/css/main.c1864a7e.css",
+    "static/js/main.9ba3ec17.js"
   ]
 }
